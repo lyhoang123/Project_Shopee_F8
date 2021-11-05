@@ -1,0 +1,21 @@
+:root{
+    --white-color : #fff;
+    --black-color : #000;
+    --text-color : #333;
+}
+*{
+    box-sizing: inherit; 
+}
+html {
+    /* font-size : 100% = 16px */
+    /* font-size : 62.5% = 12px */
+    font-size: 62.5%;
+    line-height: 1.6rem; /*1.6rem = 16px*/
+     
+}
+/* vi du
+p{
+    font-size : 1rem; 
+    Tuc la se bang 16 px , ke thua tu thang cha html chua no'
+}
+*/

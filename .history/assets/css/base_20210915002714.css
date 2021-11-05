@@ -1,0 +1,34 @@
+:root{
+    --white-color : #fff;
+    --black-color : #000;
+    --text-color : #333;
+}
+*{
+    box-sizing: inherit; 
+}
+html {
+    /* font-size : 100% = 16px */
+    /* font-size : 62.5% = 12px */
+    font-size: 62.5%;
+    line-height: 1.6rem; /*1.6rem = 16px*/
+    font-family: 'Roboto', sans-serif;  /*sans-serif : là chủng phông chữ không có chân */
+    box-sizing: border-box;
+}
+/* vi du
+p{
+    font-size : 1rem; 
+    Tuc la se bang 16 px , ke thua tu thang cha html chua no'
+}
+*/
+.grid{
+    width: 1200px;
+    max-width: 100%;
+    margin: 0 auto;
+}
+.grid__full-width{
+    width: 100%;
+}
+.grid__row{
+    display: flex;
+    fl
+}

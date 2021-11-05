@@ -1,0 +1,18 @@
+:root{
+    --white-color : #fff;
+    --black-color : #000;
+    --text-color : #333;
+}
+*{
+    box-sizing: inherit; 
+}
+html {
+    /* 16px */
+    font-size: 100%;
+}
+/* vi du
+p{
+    font-size : 1rem; 
+    
+}
+*/
